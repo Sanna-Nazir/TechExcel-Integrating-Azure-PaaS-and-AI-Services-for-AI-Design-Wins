@@ -36,6 +36,7 @@ def main():
     queries and display them in a Streamlit app.
 
     ## Select a Hotel
+    ## Test commit
     """
     )
 
